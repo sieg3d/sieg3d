@@ -1,10 +1,13 @@
-# Olá, me chamo Douglas Lopes ! 
+# Olá, me chamo Douglas Lopes!
+## Um programador em formação 🌱
 ## Bem vindo ao meu perfil GitHub 👋
 
-#### Atualmente estou atuando na área administrativa com parametrização de sistemas, preenchimento de dados ERP e levantamento de dados para informatização dos processos.
+Estou cursando Sistemas de informação na Unilasalle.
+Atualmente estou atuando na área administrativa com parametrização de sistemas, preenchimento de dados ERP e levantamento de dados para informatização dos processos.
 
-#### Estou estudando **HTML5** e **CSS3** e as linguagens de programação **JS** e **C**. Também estou aprofundando meus estudos na linguagem de consulta **SQL**, utilizando **APEX Oracle** e **Postgre**.
+Estou estudando **HTML5** e **CSS3** e as linguagens de programação **JS** e **C**. Também estou aprofundando meus estudos na linguagem de consulta **SQL**, utilizando **APEX Oracle** e **Postgre**.
 
+### Busco iniciar minha carreira de dev ainda este ano (2023), seja como estagiário ou JR, como Back-End ou Front-End.
 
 
 
