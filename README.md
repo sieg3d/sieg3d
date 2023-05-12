@@ -3,7 +3,7 @@
 
 #### Atualmente estou atuando na área administrativa com parametrização de sistemas, preenchimento de dados ERP e levantamento de dados para informatização dos processos.
 
-#### Estou estudando HTML5 e CSS3 e as linguagens de programação JS e C. Também estou aprofundando meus estudos na linguagem de consulta SQL, utilizando APEX Oracle e Postgre.
+#### Estou estudando **HTML5** e **CSS3** e as linguagens de programação **JS** e **C**. Também estou aprofundando meus estudos na linguagem de consulta **SQL**, utilizando **APEX Oracle** e **Postgre**.
 
 
 
